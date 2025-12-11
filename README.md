@@ -1,0 +1,1 @@
+# Checking-if-a-word-is-PALINDROMe-or-not
